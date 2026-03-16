@@ -2,7 +2,7 @@
 
 A pure-Java ASCII art library that renders large banner-style text and iconic ASCII artwork directly in the terminal — no external dependencies, no libraries, just Java.
 
-Built by **CheeniUchiha** ([@GitHub](https://github.com/CheeniUchiha)).
+Built by **Demon-SrinivasanV** ([@GitHub](https://github.com/Demon-SrinivasanV)).
 
 ---
 
